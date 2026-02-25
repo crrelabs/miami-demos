@@ -1,0 +1,502 @@
+[
+  {
+    "num": 101,
+    "slug": "margarita-s-alterations",
+    "url": "https://crrelabs.github.io/miami-demos/margarita-s-alterations/"
+  },
+  {
+    "num": 102,
+    "slug": "el-gallito-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/el-gallito-bakery/"
+  },
+  {
+    "num": 103,
+    "slug": "tumbao",
+    "url": "https://crrelabs.github.io/miami-demos/tumbao/"
+  },
+  {
+    "num": 104,
+    "slug": "stop-n-shop",
+    "url": "https://crrelabs.github.io/miami-demos/stop-n-shop/"
+  },
+  {
+    "num": 105,
+    "slug": "all-american-mobile-tire-service-24-7",
+    "url": "https://crrelabs.github.io/miami-demos/all-american-mobile-tire-service-24-7/"
+  },
+  {
+    "num": 106,
+    "slug": "fresa-y-chocolate-calle-8",
+    "url": "https://crrelabs.github.io/miami-demos/fresa-y-chocolate-calle-8/"
+  },
+  {
+    "num": 107,
+    "slug": "farmacia-nu-mart",
+    "url": "https://crrelabs.github.io/miami-demos/farmacia-nu-mart/"
+  },
+  {
+    "num": 108,
+    "slug": "lx-mobile-tire-shop-and-wheel-fix",
+    "url": "https://crrelabs.github.io/miami-demos/lx-mobile-tire-shop-and-wheel-fix/"
+  },
+  {
+    "num": 109,
+    "slug": "portofino-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/portofino-bakery/"
+  },
+  {
+    "num": 110,
+    "slug": "casa-potin-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/casa-potin-bakery/"
+  },
+  {
+    "num": 111,
+    "slug": "sunnyside-cafe",
+    "url": "https://crrelabs.github.io/miami-demos/sunnyside-cafe/"
+  },
+  {
+    "num": 112,
+    "slug": "elite-barbershop-doral",
+    "url": "https://crrelabs.github.io/miami-demos/elite-barbershop-doral/"
+  },
+  {
+    "num": 113,
+    "slug": "out-of-hand-barbershop",
+    "url": "https://crrelabs.github.io/miami-demos/out-of-hand-barbershop/"
+  },
+  {
+    "num": 114,
+    "slug": "casablanca-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/casablanca-bakery/"
+  },
+  {
+    "num": 115,
+    "slug": "blade-barbershop-kendall",
+    "url": "https://crrelabs.github.io/miami-demos/blade-barbershop-kendall/"
+  },
+  {
+    "num": 116,
+    "slug": "fresa-y-chocolate-miami-gardens",
+    "url": "https://crrelabs.github.io/miami-demos/fresa-y-chocolate-miami-gardens/"
+  },
+  {
+    "num": 117,
+    "slug": "fresh-delicious-restaurant-argentino-en-miami-food-truck",
+    "url": "https://crrelabs.github.io/miami-demos/fresh-delicious-restaurant-argentino-en-miami-food-truck/"
+  },
+  {
+    "num": 118,
+    "slug": "le-nails",
+    "url": "https://crrelabs.github.io/miami-demos/le-nails/"
+  },
+  {
+    "num": 119,
+    "slug": "puro-sazon-latino-cubano",
+    "url": "https://crrelabs.github.io/miami-demos/puro-sazon-latino-cubano/"
+  },
+  {
+    "num": 120,
+    "slug": "grill-on-wheel",
+    "url": "https://crrelabs.github.io/miami-demos/grill-on-wheel/"
+  },
+  {
+    "num": 121,
+    "slug": "animal-care-and-surgical-hospital",
+    "url": "https://crrelabs.github.io/miami-demos/animal-care-and-surgical-hospital/"
+  },
+  {
+    "num": 122,
+    "slug": "el-tejadito-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/el-tejadito-bakery/"
+  },
+  {
+    "num": 123,
+    "slug": "cocos-juancho",
+    "url": "https://crrelabs.github.io/miami-demos/cocos-juancho/"
+  },
+  {
+    "num": 124,
+    "slug": "villaman-tires",
+    "url": "https://crrelabs.github.io/miami-demos/villaman-tires/"
+  },
+  {
+    "num": 125,
+    "slug": "saint-city-b-b-q",
+    "url": "https://crrelabs.github.io/miami-demos/saint-city-b-b-q/"
+  },
+  {
+    "num": 126,
+    "slug": "tonsorial-parlor-barbershop-aventura",
+    "url": "https://crrelabs.github.io/miami-demos/tonsorial-parlor-barbershop-aventura/"
+  },
+  {
+    "num": 127,
+    "slug": "george-s-tires",
+    "url": "https://crrelabs.github.io/miami-demos/george-s-tires/"
+  },
+  {
+    "num": 128,
+    "slug": "admiral-insurance-agency",
+    "url": "https://crrelabs.github.io/miami-demos/admiral-insurance-agency/"
+  },
+  {
+    "num": 129,
+    "slug": "cafe-ruyi",
+    "url": "https://crrelabs.github.io/miami-demos/cafe-ruyi/"
+  },
+  {
+    "num": 130,
+    "slug": "la-suiza-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/la-suiza-bakery/"
+  },
+  {
+    "num": 131,
+    "slug": "tea-05",
+    "url": "https://crrelabs.github.io/miami-demos/tea-05/"
+  },
+  {
+    "num": 132,
+    "slug": "national-cakes-bakery-ii",
+    "url": "https://crrelabs.github.io/miami-demos/national-cakes-bakery-ii/"
+  },
+  {
+    "num": 133,
+    "slug": "b-m-liquors",
+    "url": "https://crrelabs.github.io/miami-demos/b-m-liquors/"
+  },
+  {
+    "num": 134,
+    "slug": "cafe-que-rico",
+    "url": "https://crrelabs.github.io/miami-demos/cafe-que-rico/"
+  },
+  {
+    "num": 135,
+    "slug": "cafe-panisse",
+    "url": "https://crrelabs.github.io/miami-demos/cafe-panisse/"
+  },
+  {
+    "num": 136,
+    "slug": "devonaire-service-and-tire",
+    "url": "https://crrelabs.github.io/miami-demos/devonaire-service-and-tire/"
+  },
+  {
+    "num": 137,
+    "slug": "bueno-barbershop",
+    "url": "https://crrelabs.github.io/miami-demos/bueno-barbershop/"
+  },
+  {
+    "num": 138,
+    "slug": "blade-barbershop-flagler",
+    "url": "https://crrelabs.github.io/miami-demos/blade-barbershop-flagler/"
+  },
+  {
+    "num": 139,
+    "slug": "the-middle-east-best-food",
+    "url": "https://crrelabs.github.io/miami-demos/the-middle-east-best-food/"
+  },
+  {
+    "num": 140,
+    "slug": "the-barber-club-kendall",
+    "url": "https://crrelabs.github.io/miami-demos/the-barber-club-kendall/"
+  },
+  {
+    "num": 141,
+    "slug": "sunset-service-center",
+    "url": "https://crrelabs.github.io/miami-demos/sunset-service-center/"
+  },
+  {
+    "num": 142,
+    "slug": "reyjoyeria",
+    "url": "https://crrelabs.github.io/miami-demos/reyjoyeria/"
+  },
+  {
+    "num": 143,
+    "slug": "vaca-grill",
+    "url": "https://crrelabs.github.io/miami-demos/vaca-grill/"
+  },
+  {
+    "num": 144,
+    "slug": "mazie-restaurant",
+    "url": "https://crrelabs.github.io/miami-demos/mazie-restaurant/"
+  },
+  {
+    "num": 145,
+    "slug": "natural-nails-spa",
+    "url": "https://crrelabs.github.io/miami-demos/natural-nails-spa/"
+  },
+  {
+    "num": 146,
+    "slug": "ray-s-jewelry-llc",
+    "url": "https://crrelabs.github.io/miami-demos/ray-s-jewelry-llc/"
+  },
+  {
+    "num": 147,
+    "slug": "the-coco-s-nails-and-spa",
+    "url": "https://crrelabs.github.io/miami-demos/the-coco-s-nails-and-spa/"
+  },
+  {
+    "num": 148,
+    "slug": "giodoral-barbershop",
+    "url": "https://crrelabs.github.io/miami-demos/giodoral-barbershop/"
+  },
+  {
+    "num": 149,
+    "slug": "u-save-fish-and-chicken-and-smoke-shop",
+    "url": "https://crrelabs.github.io/miami-demos/u-save-fish-and-chicken-and-smoke-shop/"
+  },
+  {
+    "num": 150,
+    "slug": "star-nails-and-spa",
+    "url": "https://crrelabs.github.io/miami-demos/star-nails-and-spa/"
+  },
+  {
+    "num": 151,
+    "slug": "julio-and-sons-tires-corporation",
+    "url": "https://crrelabs.github.io/miami-demos/julio-and-sons-tires-corporation/"
+  },
+  {
+    "num": 152,
+    "slug": "pini-insurance-pequena-habana",
+    "url": "https://crrelabs.github.io/miami-demos/pini-insurance-pequena-habana/"
+  },
+  {
+    "num": 153,
+    "slug": "insurance-of-south-florida",
+    "url": "https://crrelabs.github.io/miami-demos/insurance-of-south-florida/"
+  },
+  {
+    "num": 154,
+    "slug": "el-guajiro-tires-corp-autocare",
+    "url": "https://crrelabs.github.io/miami-demos/el-guajiro-tires-corp-autocare/"
+  },
+  {
+    "num": 155,
+    "slug": "russo-tires-calle8",
+    "url": "https://crrelabs.github.io/miami-demos/russo-tires-calle8/"
+  },
+  {
+    "num": 156,
+    "slug": "national-cakes-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/national-cakes-bakery/"
+  },
+  {
+    "num": 157,
+    "slug": "jm-tire-corporation",
+    "url": "https://crrelabs.github.io/miami-demos/jm-tire-corporation/"
+  },
+  {
+    "num": 158,
+    "slug": "blu-dental",
+    "url": "https://crrelabs.github.io/miami-demos/blu-dental/"
+  },
+  {
+    "num": 159,
+    "slug": "jessy-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/jessy-bakery/"
+  },
+  {
+    "num": 160,
+    "slug": "el-rincon-alegre",
+    "url": "https://crrelabs.github.io/miami-demos/el-rincon-alegre/"
+  },
+  {
+    "num": 161,
+    "slug": "traviesas-dental-care",
+    "url": "https://crrelabs.github.io/miami-demos/traviesas-dental-care/"
+  },
+  {
+    "num": 162,
+    "slug": "pink-dream-nails-and-beauty-cutler-bay",
+    "url": "https://crrelabs.github.io/miami-demos/pink-dream-nails-and-beauty-cutler-bay/"
+  },
+  {
+    "num": 163,
+    "slug": "elisa-by-ally-nail-and-spa",
+    "url": "https://crrelabs.github.io/miami-demos/elisa-by-ally-nail-and-spa/"
+  },
+  {
+    "num": 164,
+    "slug": "top-nails",
+    "url": "https://crrelabs.github.io/miami-demos/top-nails/"
+  },
+  {
+    "num": 165,
+    "slug": "jr-locksmith-kendall-miami-fl",
+    "url": "https://crrelabs.github.io/miami-demos/jr-locksmith-kendall-miami-fl/"
+  },
+  {
+    "num": 166,
+    "slug": "asap-cars-and-maintenance",
+    "url": "https://crrelabs.github.io/miami-demos/asap-cars-and-maintenance/"
+  },
+  {
+    "num": 167,
+    "slug": "cool-and-clean",
+    "url": "https://crrelabs.github.io/miami-demos/cool-and-clean/"
+  },
+  {
+    "num": 168,
+    "slug": "my-dream-laundry",
+    "url": "https://crrelabs.github.io/miami-demos/my-dream-laundry/"
+  },
+  {
+    "num": 169,
+    "slug": "takeroloko-allapattah",
+    "url": "https://crrelabs.github.io/miami-demos/takeroloko-allapattah/"
+  },
+  {
+    "num": 170,
+    "slug": "nd-nails-and-spa",
+    "url": "https://crrelabs.github.io/miami-demos/nd-nails-and-spa/"
+  },
+  {
+    "num": 171,
+    "slug": "el-ammar-kitchen",
+    "url": "https://crrelabs.github.io/miami-demos/el-ammar-kitchen/"
+  },
+  {
+    "num": 172,
+    "slug": "la-casita-cafeteria",
+    "url": "https://crrelabs.github.io/miami-demos/la-casita-cafeteria/"
+  },
+  {
+    "num": 173,
+    "slug": "lacque-house",
+    "url": "https://crrelabs.github.io/miami-demos/lacque-house/"
+  },
+  {
+    "num": 174,
+    "slug": "bella-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/bella-bakery/"
+  },
+  {
+    "num": 175,
+    "slug": "dulce-delicias-bakery",
+    "url": "https://crrelabs.github.io/miami-demos/dulce-delicias-bakery/"
+  },
+  {
+    "num": 176,
+    "slug": "laundromart",
+    "url": "https://crrelabs.github.io/miami-demos/laundromart/"
+  },
+  {
+    "num": 177,
+    "slug": "flyy-city-barbershop",
+    "url": "https://crrelabs.github.io/miami-demos/flyy-city-barbershop/"
+  },
+  {
+    "num": 178,
+    "slug": "q-s-studios",
+    "url": "https://crrelabs.github.io/miami-demos/q-s-studios/"
+  },
+  {
+    "num": 179,
+    "slug": "quick-tire",
+    "url": "https://crrelabs.github.io/miami-demos/quick-tire/"
+  },
+  {
+    "num": 180,
+    "slug": "raul-auto-repair",
+    "url": "https://crrelabs.github.io/miami-demos/raul-auto-repair/"
+  },
+  {
+    "num": 181,
+    "slug": "almendrares-pastry",
+    "url": "https://crrelabs.github.io/miami-demos/almendrares-pastry/"
+  },
+  {
+    "num": 182,
+    "slug": "classic-1939-barber-shop",
+    "url": "https://crrelabs.github.io/miami-demos/classic-1939-barber-shop/"
+  },
+  {
+    "num": 183,
+    "slug": "el-churrascaso-grill-food-truck-kendall",
+    "url": "https://crrelabs.github.io/miami-demos/el-churrascaso-grill-food-truck-kendall/"
+  },
+  {
+    "num": 184,
+    "slug": "tai-lorenz-cuts",
+    "url": "https://crrelabs.github.io/miami-demos/tai-lorenz-cuts/"
+  },
+  {
+    "num": 185,
+    "slug": "coast-to-coast-paint-and-body-shop",
+    "url": "https://crrelabs.github.io/miami-demos/coast-to-coast-paint-and-body-shop/"
+  },
+  {
+    "num": 186,
+    "slug": "n-y-nails-spa",
+    "url": "https://crrelabs.github.io/miami-demos/n-y-nails-spa/"
+  },
+  {
+    "num": 187,
+    "slug": "jorge-s-pharmacy",
+    "url": "https://crrelabs.github.io/miami-demos/jorge-s-pharmacy/"
+  },
+  {
+    "num": 188,
+    "slug": "sky-nails",
+    "url": "https://crrelabs.github.io/miami-demos/sky-nails/"
+  },
+  {
+    "num": 189,
+    "slug": "south-dade-family-dentistry",
+    "url": "https://crrelabs.github.io/miami-demos/south-dade-family-dentistry/"
+  },
+  {
+    "num": 190,
+    "slug": "mily-s-place-laundromat",
+    "url": "https://crrelabs.github.io/miami-demos/mily-s-place-laundromat/"
+  },
+  {
+    "num": 191,
+    "slug": "horace-meat-and-fish",
+    "url": "https://crrelabs.github.io/miami-demos/horace-meat-and-fish/"
+  },
+  {
+    "num": 192,
+    "slug": "fresa-y-chocolate-nail-and-beauty-spa-sunset",
+    "url": "https://crrelabs.github.io/miami-demos/fresa-y-chocolate-nail-and-beauty-spa-sunset/"
+  },
+  {
+    "num": 193,
+    "slug": "cutler-bay-wine-and-liquor",
+    "url": "https://crrelabs.github.io/miami-demos/cutler-bay-wine-and-liquor/"
+  },
+  {
+    "num": 194,
+    "slug": "el-rey-del-parche",
+    "url": "https://crrelabs.github.io/miami-demos/el-rey-del-parche/"
+  },
+  {
+    "num": 195,
+    "slug": "kontrol-barber-shop",
+    "url": "https://crrelabs.github.io/miami-demos/kontrol-barber-shop/"
+  },
+  {
+    "num": 196,
+    "slug": "miramar-tires-and-service",
+    "url": "https://crrelabs.github.io/miami-demos/miramar-tires-and-service/"
+  },
+  {
+    "num": 197,
+    "slug": "aqua-coin-laundry",
+    "url": "https://crrelabs.github.io/miami-demos/aqua-coin-laundry/"
+  },
+  {
+    "num": 198,
+    "slug": "juice-and-coffee-bar",
+    "url": "https://crrelabs.github.io/miami-demos/juice-and-coffee-bar/"
+  },
+  {
+    "num": 199,
+    "slug": "miwi-cafe",
+    "url": "https://crrelabs.github.io/miami-demos/miwi-cafe/"
+  },
+  {
+    "num": 200,
+    "slug": "liquor-mart-9",
+    "url": "https://crrelabs.github.io/miami-demos/liquor-mart-9/"
+  }
+]
