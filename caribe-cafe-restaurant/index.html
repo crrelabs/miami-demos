@@ -28,7 +28,7 @@
 body{font-family:var(--font-body);color:var(--text);line-height:1.6;overflow-x:hidden;background:var(--bg)}
 
 /* === NAV === */
-.nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid rgba(0,0,0,.06);transition:all .3s ease;height:72px;display:flex;align-items:center}
+.nav{position:fixed;top:40px;left:0;right:0;z-index:100;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid rgba(0,0,0,.06);transition:all .3s ease;height:72px;display:flex;align-items:center}
 .nav.scrolled{height:56px;box-shadow:0 2px 20px rgba(0,0,0,.08)}
 .nav-inner{max-width:var(--max-w);margin:0 auto;width:100%;padding:0 2rem;display:flex;align-items:center;justify-content:space-between}
 .nav-brand{font-family:var(--font-heading);font-weight:700;font-size:1.15rem;color:var(--text);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%}
@@ -41,7 +41,7 @@ body{font-family:var(--font-body);color:var(--text);line-height:1.6;overflow-x:h
 .hamburger span{width:24px;height:2.5px;background:var(--text);border-radius:2px;transition:all .3s}
 
 /* === HERO === */
-.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;padding:6rem 2rem 4rem;background:rgba(26,10,0,0.6);position:relative}
+.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;padding:7rem 2rem 4rem;background:rgba(26,10,0,0.6);position:relative}
 .hero::before{content:'';position:absolute;inset:0;background:url('https://places.googleapis.com/v1/places/ChIJJ2UG0K252YgRe2nqyClCVlA/photos/ATCDNfU7CcvNcN2FswWkCc02T8zD4DcUNAFSmKWehzRpa1vatyGl4NQLuxG6vdS1-uUkr731p9Kwu6ubKebnDBWLkROa5WL1pPNszOJne7OhohHX_HlsdrHXgGmem8ms-0za0XvH65jQKa0GxX0Qi2EWsx66NARJydV9oKkE4qdeqrPovaYUdosXczXY2gBrKugTFVOWyDhvvOnt-gwyNIlukfW6UE5xsgbaTYzowCjxUDyvQuKrty97k1bLKexJxmuL8p0w9emruP_DI7O7v6kzYucV2tNIzrervJZwUWe9nzBrbkSqak8lTtJSpGh1x1oCjUXWhjNdVnSSsj6CfkmWZ8_pwx1xHerFDvdCqn6Vvxqo79yud2GKNsjbWFjV6FcauXX6YhIUqfM1G_WaIkM0ft601zYg3VrTcvlUzj05Fn4T-7ww/media?maxWidthPx=1200&key=AIzaSyAbieiBngZWDnF3Ol9q-Owg0ixVinSgSR0') center/cover no-repeat;z-index:-1}
 .hero-content{max-width:720px}
 .hero-content .category{font-size:.85rem;text-transform:uppercase;letter-spacing:4px;opacity:.7;margin-bottom:1rem;font-weight:600}
@@ -116,7 +116,7 @@ footer a{color:var(--primary);text-decoration:none;font-weight:500}
 .mobile-cta{display:none}
 
 @media(max-width:768px){
-  .nav-links{position:fixed;top:0;right:-100%;width:280px;height:100vh;background:var(--bg);flex-direction:column;padding:5rem 2rem 2rem;box-shadow:-4px 0 24px rgba(0,0,0,.1);transition:right .3s ease;gap:1.5rem}
+  .nav-links{position:fixed;top:40px;right:-100%;width:280px;height:100vh;background:var(--bg);flex-direction:column;padding:5rem 2rem 2rem;box-shadow:-4px 0 24px rgba(0,0,0,.1);transition:right .3s ease;gap:1.5rem}
   .nav-links.open{right:0}
   .nav-links a{font-size:1.1rem}
   .hamburger{display:flex}
@@ -127,9 +127,27 @@ footer a{color:var(--primary);text-decoration:none;font-weight:500}
   .map-wrap iframe{height:280px}
   .mobile-cta{display:flex;position:fixed;bottom:0;left:0;right:0;background:var(--primary);color:#fff;text-decoration:none;font-weight:700;font-size:1rem;justify-content:center;align-items:center;padding:1rem;z-index:99;gap:.5rem;box-shadow:0 -4px 16px rgba(0,0,0,.1)}
 }
+
+/* === PROMO BANNER === */
+.promo-banner{position:fixed;top:0;left:0;right:0;z-index:200;background:linear-gradient(135deg,#dc2626 0%,#b91c1c 50%,#991b1b 100%);color:#fff;text-align:center;padding:.65rem 1rem;font-size:.95rem;font-weight:600;display:flex;align-items:center;justify-content:center;gap:.75rem;flex-wrap:wrap;box-shadow:0 2px 12px rgba(0,0,0,.2)}
+.promo-banner .price-old{text-decoration:line-through;opacity:.7;font-size:.9rem}
+.promo-banner .price-new{font-size:1.15rem;font-weight:800;color:#fbbf24}
+.promo-banner .countdown{background:rgba(0,0,0,.25);padding:.25rem .6rem;border-radius:6px;font-family:'Courier New',monospace;font-size:.85rem;letter-spacing:1px}
+.promo-banner .promo-btn{background:#fbbf24;color:#1a1a2e;padding:.4rem 1.2rem;border-radius:50px;text-decoration:none;font-weight:700;font-size:.85rem;transition:all .2s;white-space:nowrap}
+.promo-banner .promo-btn:hover{background:#f59e0b;transform:scale(1.05)}
+@media(max-width:600px){.promo-banner{font-size:.8rem;padding:.5rem .75rem;gap:.5rem}.promo-banner .promo-btn{padding:.35rem 1rem;font-size:.8rem}}
+
 </style>
 </head>
 <body>
+
+<!-- Promo Banner -->
+<div class="promo-banner">
+  <span>🚀 Launch Your Website — <span class="price-old">$39.99/mo</span> <span class="price-new">$19.99/mo</span></span>
+  <span class="countdown" id="countdown">48:00:00</span>
+  <a href="https://buy.stripe.com/test_fZu28kbVF7yGeE89zb33W00" class="promo-btn" target="_blank">Claim This Deal →</a>
+</div>
+
 
 <!-- Nav -->
 <nav class="nav">
@@ -269,6 +287,30 @@ document.addEventListener('click', (e) => {
     nav.classList.remove('open');
   }
 });
+
+// Promo countdown timer
+(function(){
+  const key = 'promo_end_' + location.pathname;
+  let end = localStorage.getItem(key);
+  if (!end) {
+    end = Date.now() + 48 * 60 * 60 * 1000;
+    localStorage.setItem(key, end);
+  }
+  end = parseInt(end);
+  const el = document.getElementById('countdown');
+  function update() {
+    const diff = Math.max(0, end - Date.now());
+    const h = Math.floor(diff / 3600000);
+    const m = Math.floor((diff % 3600000) / 60000);
+    const s = Math.floor((diff % 60000) / 1000);
+    el.textContent = String(h).padStart(2,'0') + ':' + String(m).padStart(2,'0') + ':' + String(s).padStart(2,'0');
+    if (diff > 0) requestAnimationFrame(update);
+    else el.textContent = 'EXPIRED';
+  }
+  update();
+  setInterval(update, 1000);
+})();
+
 </script>
 </body>
 </html>
